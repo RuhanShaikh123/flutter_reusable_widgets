@@ -2,6 +2,14 @@
 
 A reusable Flutter text input widget with built-in validation support for common input types.
 
+
+
+## Demo
+
+![Smart Text Input Demo](example/assets/demo.gif)
+
+
+
 ## Features
 
 * Reusable `SmartTextInput` widget
