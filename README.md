@@ -8,7 +8,7 @@ A reusable Flutter text input widget with built-in validation support for common
 
 ## Demo
 
-<img src="example/assets/demo.gif" alt="Smart Text Input Demo" width="400">
+<img src="example/assets/demo.gif" alt="Smart Text Input Demo" width="300">
 
 ## Features
 
